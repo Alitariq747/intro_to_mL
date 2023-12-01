@@ -5,9 +5,10 @@ This repository showcases my learning journey in the field of data science, cove
 ## Notebooks Overview
 
 1. **Pandas Basics:** Introduction to Pandas library with hands-on examples.
-2. **NumPy Fundamentals:** Key concepts and functionalities of NumPy.
-3. **Scikit-Learn Projects:** Real-world projects and case studies using Scikit-Learn for machine learning.
-4. **Data Cleaning and Preprocessing:** Techniques for cleaning and preprocessing datasets.
+2. **MatplotLib Library** For pretty and detailed visualisations.
+3. **NumPy Fundamentals:** Key concepts and functionalities of NumPy.
+4. **Scikit-Learn Projects:** Real-world projects and case studies using Scikit-Learn for machine learning.
+5. **Data Cleaning and Preprocessing:** Techniques for cleaning and preprocessing datasets.
 
 ## Datasets
 
@@ -15,12 +16,15 @@ The 'datasets' folder contains various datasets used in the notebooks. Each data
 
 ## Getting Started
 
-To run these notebooks locally, you need to set up a Conda environment using the provided `environment.yml` file:
+To run these notebooks locally, you need to set up a Conda environment after forking a local copy; which involves following steps:
+ **Download Conda**
+ **Activate Conda env** in the project directory involving packages: 
+ * pandas
+ * Numpy
+ * MatplotLib
+ * Jupyter Notebook -> make sure python version >= 3.10
 
-```bash
-conda env create -f environment.yml
-conda activate your_environment_name
-```
+
 
 After activating the environment, launch Jupyter Notebook:
 ```bash
