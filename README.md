@@ -20,11 +20,12 @@ To run these notebooks locally, you need to set up a Conda environment using the
 ```bash
 conda env create -f environment.yml
 conda activate your_environment_name
+```
 
 After activating the environment, launch Jupyter Notebook:
-
+```bash
 jupyter notebook
-
+```
 ### Contributions
 If you would like to contribute in any way and would like to improve on any of the code; feel free to reach out. @Alitariq121 on twitter.
 
