@@ -25,5 +25,6 @@ After activating the environment, launch Jupyter Notebook:
 
 jupyter notebook
 
-Contributions
-Feel free to suggest improvements or report issues. Contributions are welcome!
+### Contributions
+If you would like to contribute in any way and would like to improve on any of the code; feel free to reach out. @Alitariq121 on twitter.
+
